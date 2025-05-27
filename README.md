@@ -1,2 +1,2 @@
 # Pizza-sales-analysis
-I put some projects of mine.
+I developed interactive dashboard using Power Bi.It's helped to undersatnd the Pizza sales report.
