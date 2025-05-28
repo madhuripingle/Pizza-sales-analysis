@@ -1,2 +1,3 @@
-# Pizza-sales-analysis
-I developed interactive dashboard using Power Bi.It's helped to undersatnd the Pizza sales report.
+#Pizza Sales data analysis (Interactive dashboard creation using Power Bi)
+##Project Objective
+-We need to analyze key indicators for our pizza sales data to gain insights into our business performance. 
