@@ -5,7 +5,7 @@
 
 
 ## Dataset used
-<a href="https://github.com/madhuripingle/Pizza-sales-analysis/blob/main/pizza_sales.csv">Dataset</a>
+ <a href="https://github.com/madhuripingle/Pizza-sales-analysis/blob/main/pizza_sales.xlsb">Dataset</a>
 
 ## Questions (KPIs)
 1.	Total Revenue: The sum of the total price of all pizza orders.
