@@ -14,4 +14,5 @@
 4.	Total Orders: The total number of orders placed.
 5.	Average Pizzas per order: The average number of Pizzas sold per order, calculated by dividing the total number of Pizzas sold by the total number of orders.
 
--Dashboard interaction ( https://github.com/madhuripingle/Pizza-sales-analysis/blob/main/pizza%20sales.pbix ) View Dashboard</a>
+-Dashboard interaction 
+<a href="https://github.com/madhuripingle/Pizza-sales-analysis/blob/main/pizza%20sales.pbix">View Dashboard</a>
